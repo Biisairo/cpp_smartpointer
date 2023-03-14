@@ -62,6 +62,23 @@
 		"unordered_map": "cpp",
 		"vector": "cpp",
 		"memory_resource": "cpp",
-		"__memory": "cpp"
+		"__memory": "cpp",
+		"__functional_03": "cpp",
+		"condition_variable": "cpp",
+		"deque": "cpp",
+		"numeric": "cpp",
+		"queue": "cpp",
+		"random": "cpp",
+		"thread": "cpp",
+		"*.tcc": "cpp",
+		"stop_token": "cpp",
+		"clocale": "cpp",
+		"compare": "cpp",
+		"list": "cpp",
+		"concepts": "cpp",
+		"source_location": "cpp",
+		"numbers": "cpp",
+		"semaphore": "cpp",
+		"cinttypes": "cpp"
 	}
 }
